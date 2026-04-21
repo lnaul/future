@@ -1,0 +1,5 @@
+.DS_Store
+public/models/*.glb
+public/models/*.gltf
+public/videos/*.mp4
+public/videos/*.webm
